@@ -36,7 +36,8 @@ Research - User Personas - Storyboards - Customer maps - Brainstorming - User Fl
 <img align="left" height="46" src="client-8.png">
 <img  height="46" src="client-9.png">
 
-# <ins> <span style="color: #45046a;">Featured projects</span> </ins>
+# <ins> <span style="color: #45046a;"> Featured projects </span> </ins>
+
 ## [<span style="color: #45046a;">FaceAI</span>](https://github.com/zinrack/FaceAI)
 This End to End Machine learning Application that is able to detect the face of any persons image and classify the image as male or female using ML and flask
 
