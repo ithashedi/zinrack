@@ -44,7 +44,7 @@ This End to End Machine learning Application that is able to detect the face of 
 
 <img src="project1.png" alt="FaceAI" height="300" />
 
-## [<span style="color: #45046a;">Printwell</span>](https://uw.printwell.co.uk/)
+## [<span style="color: #45046a;">Utility Warehouse</span>](https://uw.printwell.co.uk/)
 This online store is developed for Utility Warehouse on behave Printwell.
 
 <img src="project2.png" alt="Printwell" height="300" />
