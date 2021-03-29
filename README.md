@@ -3,7 +3,7 @@
 <span style="color: #DD6FD1;">Full-Stack Developer - UX/UI Designer - IT Support</span> 
 # <span style="color:#45046a;">Muhammed Khaled</span> 
 
-Proactive and creative professional, with a huge passion to create solutions that have a positive impact on the world. I am currently a final year computer science student on track to achieve a first-class degree in summer 2021. During my studies, I have been freelancing and working with several high-end brands such as <span style="color: #6f42c1;">**Printwell, Utility Warehouse, Samsung,**</span> and more. Within this time, I have amassed a wealth of experience and skills across software development, UX/UI design, customer service, business operations, leadership, and management. 
+Proactive and creative professional, with a huge passion to create solutions that have a positive impact on the world. I am currently a final year computer science student on track to achieve a first-class degree in summer 2021. During my studies, I have been freelancing and working with several high-end brand designs such as Printwell, Utility Warehouse, Greensleeves Lawn Care, and more. Within this time, I have amassed a wealth of experience and skills across software development, UX/UI design, customer service, business operations, leadership, and management.
 
 I have also been working on several non-profit projects, in the last few years, such as the Learning Management Platform which is planned to help students in third-world countries such as (my home country) Yemen to access free education.
 
@@ -12,9 +12,9 @@ I have also been working on several non-profit projects, in the last few years, 
 With my extensive experience and knowledge in IT, which I have gained throughout my career and higher education, I am able to provide guidance and profound advice to organizations to increase their efficiency and IT structure and help their businesses thrive faster and operate smarter.
 
 ## <img src="icon2.png" alt="Software Development" width="25"/> <span style="color: #45046a;">Software Development</span>
-**Front-End:** HTML, CSS, Bulma, Sass, Tailwind, JavaScript, ReactJS, jQuery, Vue, and Bootstrap.
+**Front-End:** HTML, CSS, Bulma, JavaScript, ReactJS, jQuery, Three.js, P5.js and Bootstrap.
 
-**Backend:** Python (Flask), Machine Learning, Firebase, Firestore, MongoDB, MySQL, NodeJS, PHP, Rest APIs, and Google APIs.
+**Backend:** Python (Flask), Machine Learning, MySQL, NodeJS, and PHP.
 
 **Tools:** git, GitLab, Github, npm, yarn, Adobe XD, Photoshop, and Canvas.
 
