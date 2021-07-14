@@ -3,7 +3,7 @@
 <span style="color: #DD6FD1;">Full-Stack Developer - UX/UI Designer - IT Support</span> 
 # <span style="color:#45046a;">Muhammed Khaled</span> 
 
-Proactive and creative professional, with a huge passion to create solutions that have a positive impact on the world. I am currently a final year computer science student on track to achieve a first-class degree in summer 2021. During my studies, I have been freelancing and working with several high-end brand designs such as Printwell, Utility Warehouse, Greensleeves Lawn Care, and more. Within this time, I have amassed a wealth of experience and skills across software development, UX/UI design, customer service, business operations, leadership, and management.
+Proactive and creative professional, with a huge passion to create solutions that have a positive impact on the world. Recently achieved a first-class degree in Computer Science summer 2021. During my studies, I have been freelancing and working with several high-end brand designs such as Printwell, Utility Warehouse, Greensleeves Lawn Care, and more. Within this time, I have amassed a wealth of experience and skills across software development, UX/UI design, customer service, business operations, leadership, and management.
 
 I have also been working on several non-profit projects, in the last few years, such as the Learning Management Platform which is planned to help students in third-world countries such as (my home country) Yemen to access free education.
 
